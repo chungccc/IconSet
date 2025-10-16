@@ -2,6 +2,7 @@
   "name": "常用图标集",
   "description": "个人使用",
   "icons": [
-    {"name": "instagram", "url": "https://github.com/chungccc/IconSet/blob/main/instagram.png?raw=true"}
+    {"name": "instagram", "url": "https://github.com/chungccc/IconSet/blob/main/instagram.png?raw=true"},
+    {"name": "imdb", "url": "https://github.com/chungccc/IconSet/blob/main/imdb.png?raw=true"}
   ]
 }
