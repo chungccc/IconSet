@@ -1,0 +1,7 @@
+{
+  "name": "常用图标集",
+  "description": "个人使用",
+  "icons": [
+    {"name": "instagram", "url": "https://cdn.jsdelivr.net/gh/chungcc/IconSet/instagram.png"},
+  ]
+}
