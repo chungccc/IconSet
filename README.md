@@ -1,4 +1,9 @@
 # IconSet
+# IconSet
+
+A personal icon collection designed to enhance the visual appearance of proxy configurations and policy groups. It provides reusable icons for online services, platforms, and custom rules, primarily for use with Stash and other compatible proxy tools.
+
+
 
 个人维护的图标集，主要用于stash等代理工具的图标自定义，为策略组、服务分流及个人配置提供统一的图标资源。
 
