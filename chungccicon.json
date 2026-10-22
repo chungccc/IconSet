@@ -1,33 +1,122 @@
 {
-  "name": "常用图标集",
-  "description": "个人使用",
+  "name": "IconSet",
+  "description": "Personal icon collection",
   "icons": [
-    {"name": "instagram", "url": "https://github.com/chungccc/IconSet/blob/main/instagram.png?raw=true"},
-    {"name": "imdb", "url": "https://github.com/chungccc/IconSet/blob/main/imdb.png?raw=true"},
-    {"name": "time", "url": "https://github.com/chungccc/IconSet/blob/main/time.png?raw=true"},
-    {"name": "time2", "url": "https://github.com/chungccc/IconSet/blob/main/time2.png?raw=true"},
-    {"name": "home1", "url": "https://github.com/chungccc/IconSet/blob/main/home1.png?raw=true"},
-    {"name": "HKTLOGO", "url": "https://github.com/chungccc/IconSet/blob/main/HKTLOGO.png?raw=true"},
-    {"name": "bytedance", "url": "https://github.com/chungccc/IconSet/blob/main/bytedance.png?raw=true"},
-    {"name": "ct", "url": "https://github.com/chungccc/IconSet/blob/main/ct.png?raw=true"},
-    {"name": "exitrun", "url": "https://github.com/chungccc/IconSet/blob/main/exitrun.png?raw=true"},
-    {"name": "github-badge-256px", "url": "https://github.com/chungccc/IconSet/blob/main/github-badge-256px.png?raw=true"},
-    {"name": "github-light-256px", "url": "https://github.com/chungccc/IconSet/blob/main/github-light-256px.png?raw=true"},
-    {"name": "google-256px", "url": "https://github.com/chungccc/IconSet/blob/main/google-256px.png?raw=true"},
-    {"name": "heart", "url": "https://github.com/chungccc/IconSet/blob/main/heart.png?raw=true"},
-    {"name": "imessage", "url": "https://github.com/chungccc/IconSet/blob/main/imessage.png?raw=true"},
-    {"name": "instagram-256px", "url": "https://github.com/chungccc/IconSet/blob/main/instagram-256px.png?raw=true"},
-    {"name": "microsoft-256px", "url": "https://github.com/chungccc/IconSet/blob/main/microsoft-256px.png?raw=true"},
-    {"name": "netflix-256px", "url": "https://github.com/chungccc/IconSet/blob/main/netflix-256px.png?raw=true"},
-    {"name": "openai-chatgpt-256px", "url": "https://github.com/chungccc/IconSet/blob/main/openai-chatgpt-256px.png?raw=true"},
-    {"name": "oversea", "url": "https://github.com/chungccc/IconSet/blob/main/oversea.png?raw=true"},
-    {"name": "smart", "url": "https://github.com/chungccc/IconSet/blob/main/smart.png?raw=true"},
-    {"name": "spotify-256px", "url": "https://github.com/chungccc/IconSet/blob/main/spotify-256px.png?raw=true"},
-    {"name": "steam-256px", "url": "https://github.com/chungccc/IconSet/blob/main/steam-256px.png?raw=true"},
-    {"name": "telegram-256px", "url": "https://github.com/chungccc/IconSet/blob/main/telegram-256px.png?raw=true"},
-    {"name": "tiktok-light-256px", "url": "https://github.com/chungccc/IconSet/blob/main/tiktok-light-256px.png?raw=true"},
-    {"name": "whatsapp-256px", "url": "https://github.com/chungccc/IconSet/blob/main/whatsapp-256px.png?raw=true"},
-    {"name": "window2", "url": "https://github.com/chungccc/IconSet/blob/main/window2.png?raw=true"},
-    {"name": "youtube-256px", "url": "https://github.com/chungccc/IconSet/blob/main/youtube-256px.png?raw=true"}
+    {
+      "name": "HKTLOGO",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/HKTLOGO.png"
+    },
+    {
+      "name": "bytedance",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/bytedance.png"
+    },
+    {
+      "name": "ct",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/ct.png"
+    },
+    {
+      "name": "exitrun",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/exitrun.png"
+    },
+    {
+      "name": "github-badge-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/github-badge-256px.png"
+    },
+    {
+      "name": "github-light-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/github-light-256px.png"
+    },
+    {
+      "name": "google-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/google-256px.png"
+    },
+    {
+      "name": "heart",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/heart.png"
+    },
+    {
+      "name": "home1",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/home1.png"
+    },
+    {
+      "name": "homeadvisor",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/homeadvisor.png"
+    },
+    {
+      "name": "imdb",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imdb.jpg"
+    },
+    {
+      "name": "imdb",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imdb.png"
+    },
+    {
+      "name": "imessage",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imessage.png"
+    },
+    {
+      "name": "instagram-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/instagram-256px.png"
+    },
+    {
+      "name": "instagram",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/instagram.png"
+    },
+    {
+      "name": "microsoft-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/microsoft-256px.png"
+    },
+    {
+      "name": "netflix-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/netflix-256px.png"
+    },
+    {
+      "name": "openai-chatgpt-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/openai-chatgpt-256px.png"
+    },
+    {
+      "name": "oversea",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/oversea.png"
+    },
+    {
+      "name": "smart",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/smart.png"
+    },
+    {
+      "name": "spotify-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/spotify-256px.png"
+    },
+    {
+      "name": "steam-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/steam-256px.png"
+    },
+    {
+      "name": "telegram-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/telegram-256px.png"
+    },
+    {
+      "name": "tiktok-light-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/tiktok-light-256px.png"
+    },
+    {
+      "name": "time",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/time.png"
+    },
+    {
+      "name": "time2",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/time2.png"
+    },
+    {
+      "name": "whatsapp-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/whatsapp-256px.png"
+    },
+    {
+      "name": "window2",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/window2.png"
+    },
+    {
+      "name": "youtube-256px",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/youtube-256px.png"
+    }
   ]
 }
