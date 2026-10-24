@@ -47,10 +47,6 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/homeadvisor.png"
     },
     {
-      "name": "icons8-出口-48",
-      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/icons8-出口-48.png"
-    },
-    {
       "name": "icons8-输入-48",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/icons8-输入-48.png"
     },
@@ -81,6 +77,10 @@
     {
       "name": "openai-chatgpt-256px",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/openai-chatgpt-256px.png"
+    },
+    {
+      "name": "out",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/out.png"
     },
     {
       "name": "oversea",
