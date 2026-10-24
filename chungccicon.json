@@ -7,6 +7,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/HKTLOGO.png"
     },
     {
+      "name": "aws",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/aws.png"
+    },
+    {
       "name": "bytedance",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/bytedance.png"
     },
@@ -41,6 +45,14 @@
     {
       "name": "homeadvisor",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/homeadvisor.png"
+    },
+    {
+      "name": "icons8-出口-48",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/icons8-出口-48.png"
+    },
+    {
+      "name": "icons8-输入-48",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/icons8-输入-48.png"
     },
     {
       "name": "imdb",
