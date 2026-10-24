@@ -47,10 +47,6 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imdb.jpg"
     },
     {
-      "name": "imdb",
-      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imdb.png"
-    },
-    {
       "name": "imessage",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imessage.png"
     },
@@ -113,6 +109,10 @@
     {
       "name": "window2",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/window2.png"
+    },
+    {
+      "name": "x",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/x.png"
     },
     {
       "name": "youtube-256px",
