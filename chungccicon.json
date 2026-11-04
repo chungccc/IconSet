@@ -3,6 +3,10 @@
   "description": "Personal icon collection",
   "icons": [
     {
+      "name": "18",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/18.png"
+    },
+    {
       "name": "HKTLOGO",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/HKTLOGO.png"
     },
