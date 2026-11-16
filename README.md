@@ -147,11 +147,11 @@ A personal icon collection designed to enhance the visual appearance of proxy co
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/time2.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/time2.png" alt="time2" title="time2" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>time2</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/whatsapp-256px.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/whatsapp-256px.png" alt="whatsapp-256px" title="whatsapp-256px" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>whatsapp-256px</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/window2.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/window2.png" alt="window2" title="window2" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>window2</sub></td>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/x-2.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/x-2.png" alt="x-2" title="x-2" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>x-2</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/x.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/x.png" alt="x" title="x" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>x</sub></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/x.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/x.png" alt="x" title="x" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>x</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/youtube-256px.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/youtube-256px.png" alt="youtube-256px" title="youtube-256px" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>youtube-256px</sub></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
