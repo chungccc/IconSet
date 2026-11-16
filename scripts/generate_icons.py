@@ -1,52 +1,44 @@
 
-name: Generate Icon Set
+import json
+from pathlib import Path
 
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - "**/*.png"
-      - "**/*.jpg"
-      - "**/*.jpeg"
-      - "**/*.webp"
-      - "**/*.gif"
-      - "**/*.svg"
-      - "scripts/generate_icons.py"
-      - "scripts/update_gallery.py"
-      - ".github/workflows/generate-icons.yml"
-  workflow_dispatch:
+ROOT = Path(__file__).resolve().parent.parent
+OUTPUT = ROOT / "chungccicon.json"
 
-permissions:
-  contents: write
+EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"}
+EXCLUDED_DIRS = {".git", ".github", "scripts"}
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+icons = []
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+for path in sorted(ROOT.rglob("*")):
+    if not path.is_file() or path == OUTPUT:
+        continue
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
+    if any(part in EXCLUDED_DIRS for part in path.relative_to(ROOT).parts):
+        continue
 
-      - name: Generate JSON
-        run: python scripts/generate_icons.py
+    if path.suffix.lower() not in EXTENSIONS:
+        continue
 
-      - name: Generate README Gallery
-        run: python scripts/update_gallery.py
+    name = path.stem
+    url = (
+        "https://raw.githubusercontent.com/"
+        "chungccc/IconSet/main/"
+        + path.relative_to(ROOT).as_posix()
+    )
 
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    icons.append({"name": name, "url": url})
 
-          git add chungccicon.json README.md
+data = {
+    "name": "IconSet",
+    "description": "Personal icon collection",
+    "icons": icons,
+}
 
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update icon set and README gallery"
-            git push
-          fi
+OUTPUT.write_text(
+    json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+    encoding="utf-8",
+)
+
+print(f"Generated {OUTPUT.name}: {len(icons)} icons")
+
