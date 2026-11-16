@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "chungccicon.json"
 
 EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"}
-EXCLUDED_DIRS = {".git", ".github", "scripts"}
+EXCLUDED_DIRS = {".git", ".github", "scripts", "thumbnails"}
 
 icons = []
 
