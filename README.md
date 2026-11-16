@@ -5,7 +5,7 @@ A personal icon collection designed to enhance the visual appearance of proxy co
 
 
 
-个人维护的图标集，主要用于stash等代理工具的图标自定义，为策略组、服务分流及个人配置提供统一的图标资源。
+个人整理与维护的图标资源集合，图标均收集自互联网，个人配置提供统一的图标资源。本项目仅供个人学习、整理及非商业用途使用。
 
 ## 📦 项目内容
 
@@ -23,42 +23,23 @@ A personal icon collection designed to enhance the visual appearance of proxy co
 - **互联网服务**：Google、Microsoft、Steam
 - **网络与自定义标识**：Home、Smart、Oversea 等
 
-具体图标及名称以仓库实际文件为准。
-
-## 🚀 在 Stash 中使用
-
-### 方法一：通过图标集链接导入
-
-1. 打开 Stash。
-2. 使用图标集导入功能。
-3. 填入以下 Raw JSON 地址：
-
-   ```text
-   https://raw.githubusercontent.com/chungccc/IconSet/main/chungccicon.json
-   ```
-
-4. 确认导入结果，并在配置中选择对应图标。
-
-### 方法二：通过链接安装
-
-在 iPhone 上打开以下链接，尝试唤起 Stash 导入：
-
-```text
-https://link.stash.ws/install-icon-set/raw.githubusercontent.com/chungccc/IconSet/main/chungccicon.json
-```
-
-如果导入失败，请优先检查 JSON 格式、图片链接是否可访问，以及当前 Stash 版本对图标集格式的支持情况。
-
-
 ## 📁 项目地址
 
 - GitHub 仓库：[chungccc/IconSet](https://github.com/chungccc/IconSet)
 - 图标集索引：[chungccicon.json](https://github.com/chungccc/IconSet/blob/main/chungccicon.json)
 - Raw JSON：[chungccicon.json（Raw）](https://raw.githubusercontent.com/chungccc/IconSet/main/chungccicon.json)
 
-## 📝 说明
+## 版权声明
 
-- 本项目主要用于个人配置及图标整理。
-- 第三方品牌图标的商标及相关权利归其各自所有者所有。
-- 图标显示效果取决于客户端支持、图标集格式及图片资源的可访问性。
-- 欢迎根据个人需求进行修改和扩展。
+- 本项目所收录的图标均来源于互联网公开资源，版权及相关知识产权归原作者或原版权持有人所有。
+- 本项目仅对收集的图标进行整理、分类与索引，不主张拥有相关图标的版权。
+- 所有图标仅供个人学习、研究及非商业用途使用。
+- 如相关图标涉及版权或其他合法权益，请联系项目维护者，核实后将及时处理或删除。
+- 未经原版权持有人授权，请勿将相关图标用于商业用途或声称拥有其版权。
+
+## 🖼️ 图标预览
+
+以下图标根据 `chungccicon.json` 自动生成。
+
+<!-- ICON-GALLERY:START -->
+<!-- ICON-GALLERY:END -->
