@@ -11,8 +11,11 @@ START_MARKER = "<!-- ICON-GALLERY:START -->"
 END_MARKER = "<!-- ICON-GALLERY:END -->"
 
 COLUMNS = 6
-ICON_SIZE = 48
-
+ICON_SIZE = 64
+THUMBNAIL_BASE = (
+    "https://raw.githubusercontent.com/"
+    "chungccc/IconSet/main/thumbnails/"
+)
 
 def build_gallery(icons):
     cells = []
@@ -30,16 +33,21 @@ def build_gallery(icons):
         safe_name = html.escape(name, quote=True)
         safe_url = html.escape(url, quote=True)
 
+        filename = name.replace("/", "_")
+        thumbnail_url = THUMBNAIL_BASE + filename + ".png"
+        safe_thumbnail = html.escape(thumbnail_url, quote=True)
+
         cells.append(
             '      <td align="center" valign="middle">'
-            f'<img src="{safe_url}" alt="{safe_name}" '
-            f'title="{safe_name}" width="{ICON_SIZE}" '
-            f'height="{ICON_SIZE}" '
-            'style="object-fit:contain;" /><br />'
+            f'<a href="{safe_url}">'
+            f'<img src="{safe_thumbnail}" '
+            f'alt="{safe_name}" title="{safe_name}" '
+            f'width="{ICON_SIZE}" height="{ICON_SIZE}" '
+            'style="object-fit:contain;" />'
+            '</a><br />'
             f"<sub>{safe_name}</sub>"
             "</td>"
         )
-
     if not cells:
         return '<p align="center">暂无可预览的图标。</p>'
 
