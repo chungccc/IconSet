@@ -1,41 +1,52 @@
-import json
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-OUTPUT = ROOT / "chungccicon.json"
+name: Generate Icon Set
 
-# Scan image files in the repository, excluding .git and generated output.
-EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"}
-EXCLUDED_DIRS = {".git", ".github", "scripts"}
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.png"
+      - "**/*.jpg"
+      - "**/*.jpeg"
+      - "**/*.webp"
+      - "**/*.gif"
+      - "**/*.svg"
+      - "scripts/generate_icons.py"
+      - "scripts/update_gallery.py"
+      - ".github/workflows/generate-icons.yml"
+  workflow_dispatch:
 
-icons = []
+permissions:
+  contents: write
 
-for path in sorted(ROOT.rglob("*")):
-    if not path.is_file() or path == OUTPUT:
-        continue
-    if any(part in EXCLUDED_DIRS for part in path.relative_to(ROOT).parts):
-        continue
-    if path.suffix.lower() not in EXTENSIONS:
-        continue
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-    name = path.stem
-    url = (
-        "https://raw.githubusercontent.com/"
-        "chungccc/IconSet/main/"
-        + path.relative_to(ROOT).as_posix()
-    )
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    icons.append({"name": name, "url": url})
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
 
-data = {
-    "name": "IconSet",
-    "description": "Personal icon collection",
-    "icons": icons,
-}
+      - name: Generate JSON
+        run: python scripts/generate_icons.py
 
-OUTPUT.write_text(
-    json.dumps(data, ensure_ascii=False, indent=2) + "\n",
-    encoding="utf-8",
-)
+      - name: Generate README Gallery
+        run: python scripts/update_gallery.py
 
-print(f"Generated {OUTPUT.name}: {len(icons)} icons")
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add chungccicon.json README.md
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update icon set and README gallery"
+            git push
+          fi
