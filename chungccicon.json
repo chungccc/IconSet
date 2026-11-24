@@ -15,6 +15,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/HKTLOGO.png"
     },
     {
+      "name": "applemusic",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/applemusic.png"
+    },
+    {
       "name": "ash",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/ash.png"
     },
@@ -39,6 +43,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/exitrun.png"
     },
     {
+      "name": "gcp",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/gcp.png"
+    },
+    {
       "name": "github-badge-256px",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/github-badge-256px.png"
     },
@@ -49,6 +57,10 @@
     {
       "name": "google-256px",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/google-256px.png"
+    },
+    {
+      "name": "googlechat",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/googlechat.png"
     },
     {
       "name": "heart",
@@ -83,6 +95,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/instagram.png"
     },
     {
+      "name": "japanairlines",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/japanairlines.png"
+    },
+    {
       "name": "lcb",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/lcb.png"
     },
@@ -99,12 +115,20 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/openai-chatgpt-256px.png"
     },
     {
+      "name": "openwrt",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/openwrt.png"
+    },
+    {
       "name": "out",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/out.png"
     },
     {
       "name": "oversea",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/oversea.png"
+    },
+    {
+      "name": "pinterest",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/pinterest.png"
     },
     {
       "name": "relay",
