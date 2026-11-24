@@ -43,6 +43,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/exitrun.png"
     },
     {
+      "name": "facebook",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/facebook.png"
+    },
+    {
       "name": "gcp",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/gcp.png"
     },
@@ -161,6 +165,10 @@
     {
       "name": "telegram-256px",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/telegram-256px.png"
+    },
+    {
+      "name": "threads",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/threads.png"
     },
     {
       "name": "tiktok-light-256px",
