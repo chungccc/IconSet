@@ -23,6 +23,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/HKTLOGO.png"
     },
     {
+      "name": "adblock",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/adblock.png"
+    },
+    {
       "name": "applemusic",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/applemusic.png"
     },
@@ -59,6 +63,14 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/gcp.png"
     },
     {
+      "name": "gemini",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/gemini.png"
+    },
+    {
+      "name": "gemini2",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/gemini2.png"
+    },
+    {
       "name": "github-badge-256px",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/github-badge-256px.png"
     },
@@ -73,6 +85,10 @@
     {
       "name": "googlechat",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/googlechat.png"
+    },
+    {
+      "name": "grok",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/grok.png"
     },
     {
       "name": "heart",
@@ -193,6 +209,10 @@
     {
       "name": "time2",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/time2.png"
+    },
+    {
+      "name": "twitter",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/twitter.png"
     },
     {
       "name": "whatsapp-256px",
