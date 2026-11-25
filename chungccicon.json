@@ -43,6 +43,14 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/bytedance.png"
     },
     {
+      "name": "claude",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/claude.png"
+    },
+    {
+      "name": "claude2",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/claude2.png"
+    },
+    {
       "name": "ct",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/ct.png"
     },
@@ -157,6 +165,10 @@
     {
       "name": "oversea",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/oversea.png"
+    },
+    {
+      "name": "paypal",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/paypal.png"
     },
     {
       "name": "pinterest",
