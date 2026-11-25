@@ -27,6 +27,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/adblock.png"
     },
     {
+      "name": "amazonprime",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/amazonprime.png"
+    },
+    {
       "name": "applemusic",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/applemusic.png"
     },
@@ -119,6 +123,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imdb.jpg"
     },
     {
+      "name": "imdb2",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imdb2.png"
+    },
+    {
       "name": "imessage",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/imessage.png"
     },
@@ -175,12 +183,24 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/pinterest.png"
     },
     {
+      "name": "playstation",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/playstation.png"
+    },
+    {
+      "name": "primevideo",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/primevideo.png"
+    },
+    {
       "name": "relay",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/relay.png"
     },
     {
       "name": "relay2",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/relay2.png"
+    },
+    {
+      "name": "riotgames",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/riotgames.png"
     },
     {
       "name": "router",
@@ -223,8 +243,16 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/time2.png"
     },
     {
+      "name": "twitch",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/twitch.png"
+    },
+    {
       "name": "twitter",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/twitter.png"
+    },
+    {
+      "name": "wechat",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/wechat.png"
     },
     {
       "name": "whatsapp-256px",
