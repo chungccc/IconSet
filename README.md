@@ -122,24 +122,16 @@ A personal icon collection designed to enhance the visual appearance of proxy co
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/telegram-256px.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/telegram-256px.png" alt="telegram-256px" title="telegram-256px" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>telegram-256px</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/threads.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/threads.png" alt="threads" title="threads" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>threads</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/tiktok-light-256px.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/tiktok-light-256px.png" alt="tiktok-light-256px" title="tiktok-light-256px" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>tiktok-light-256px</sub></td>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/time.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/time.png" alt="time" title="time" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>time</sub></td>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/time2.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/time2.png" alt="time2" title="time2" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>time2</sub></td>
-    </tr>
-    <tr>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/twitch.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/twitch.png" alt="twitch" title="twitch" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>twitch</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/twitter.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/twitter.png" alt="twitter" title="twitter" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>twitter</sub></td>
+    </tr>
+    <tr>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/wechat.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/wechat.png" alt="wechat" title="wechat" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>wechat</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/whatsapp-256px.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/whatsapp-256px.png" alt="whatsapp-256px" title="whatsapp-256px" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>whatsapp-256px</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/whatsapp2.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/whatsapp2.png" alt="whatsapp2" title="whatsapp2" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>whatsapp2</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/window2.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/window2.png" alt="window2" title="window2" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>window2</sub></td>
-    </tr>
-    <tr>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/x.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/x.png" alt="x" title="x" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>x</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/chungccc/IconSet/main/youtube-256px.png"><img src="https://raw.githubusercontent.com/chungccc/IconSet/main/thumbnails/youtube-256px.png" alt="youtube-256px" title="youtube-256px" width="64" height="64" style="object-fit:contain;" /></a><br /><sub>youtube-256px</sub></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
