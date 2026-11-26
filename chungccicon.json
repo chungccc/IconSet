@@ -59,12 +59,20 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/claude2.png"
     },
     {
+      "name": "cloudflare",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/cloudflare.png"
+    },
+    {
       "name": "ct",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/ct.png"
     },
     {
       "name": "download",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/download.png"
+    },
+    {
+      "name": "edge",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/edge.png"
     },
     {
       "name": "emirates-airlines",
@@ -77,6 +85,14 @@
     {
       "name": "facebook",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/facebook.png"
+    },
+    {
+      "name": "firefox",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/firefox.png"
+    },
+    {
+      "name": "game",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/game.png"
     },
     {
       "name": "gcp",
@@ -105,6 +121,14 @@
     {
       "name": "googlechat",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/googlechat.png"
+    },
+    {
+      "name": "googlecloud",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/googlecloud.png"
+    },
+    {
+      "name": "googletranslate",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/googletranslate.png"
     },
     {
       "name": "grok",
@@ -167,6 +191,10 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/marantz.png"
     },
     {
+      "name": "messenger",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/messenger.png"
+    },
+    {
       "name": "microsoft-256px",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/microsoft-256px.png"
     },
@@ -223,12 +251,20 @@
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/router.png"
     },
     {
+      "name": "safari",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/safari.png"
+    },
+    {
       "name": "smart",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/smart.png"
     },
     {
       "name": "smart2",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/smart2.png"
+    },
+    {
+      "name": "speedtest",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/speedtest.png"
     },
     {
       "name": "spotify-256px",
@@ -277,6 +313,10 @@
     {
       "name": "whatsapp2",
       "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/whatsapp2.png"
+    },
+    {
+      "name": "wifi",
+      "url": "https://raw.githubusercontent.com/chungccc/IconSet/main/wifi.png"
     },
     {
       "name": "window2",
